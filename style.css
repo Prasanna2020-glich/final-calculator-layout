@@ -1,0 +1,100 @@
+.pg{
+    height: 600px;
+    width: 600px;
+    background-color: wheat;
+    padding-left: 50px;
+
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+
+    
+    
+
+}
+.pg1{
+ 
+  height: 600px;
+  
+  background-color: azure;
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+ 
+  
+
+
+}
+.pg2{
+    display: flex; 
+   justify-content: center; 
+   align-items: center;
+   height: 150px;
+   background-color: darkgray;
+   border-radius: 10px;
+   display: flex;
+   
+
+  
+
+}
+.row{
+  height: 25%;
+
+}
+.pg3{
+  
+  height: 400px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.button{
+ padding: 20px;
+ margin:  3px;
+ border: 2px solid black;
+ border-radius: 9px;
+ cursor: pointer;
+
+ height: 100%;
+ width: 150px;
+
+ 
+ 
+ 
+}
+.input{
+  height: 80px;
+  background-color: darkgray;
+  width: 500px;
+  border-radius: 10px;
+  font-size: xx-large;
+
+  font-weight: 1000px;
+
+}
+.del{
+  height: 50px;
+  width: 50px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.material-symbols-outlined
+{
+  cursor: pointer;
+}
